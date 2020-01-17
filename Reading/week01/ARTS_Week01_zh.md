@@ -16,7 +16,7 @@ If you go back to the beginnings of computer science, it was not called computer
 
 如果您回到计算机科学的起源，它就不被称为计算机科学，并且在任何学校中都没有计算机科学系。 计算机科学作为一门学科是数学和/或工程学的子集。 第一个计算机科学系于1962年在普渡大学成立，距此再过15年，甚至只有一小部分大学有计算机科学系。 到了20世纪80年代，计算机科学仍被广泛认为是数学或通用工程的一个子领域。 但是，我们早在20世纪40年代就拥有计算机程序员。 这些早期的开拓者是谁，他们做了什么？
 
-![img](http://note.youdao.com/yws/res/1303/a491ab1af64e2ee53d6e149dae2c5407)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/01.jpg)
 
 Augusta Ada King, Countess of Lovelace; aka [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace). The first of us. Mom.
 
@@ -24,7 +24,7 @@ The first programmers were mathematicians. They weren’t usually called program
 
 最早的程序员是数学家。 他们通常不被称为程序员。 他们是分析师，工程师，数学家，或者通常只是“ *那些真的很聪明的女人在冰箱里*”（大多数第一批程序员是女人，大多数计算机都在“冷室”中）。 这些“程序员”必须具有广泛的正规教育和数学和/或工程知识。 与我们今天所认为的程序员相比，大多数人与科学家的关系更紧密。 随着时间的流逝，到20世纪60年代后期，这一领域发展壮大，从事计算机编程的人员逐渐被称为软件工程师。 这些人是受过高等教育的人（仍然大部分是女性），通常具有较高的数学学位。 这持续了一段时间。
 
-![img](http://note.youdao.com/yws/res/1304/6c0cd19905b9ba1e1f008695a212b13a)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/02.jpg)
 
 [Margaret Hamilton](http://margaret_hamilton/), one of the first true software engineers and one of the greatest.
 
@@ -42,7 +42,7 @@ Even up to the early 2000's, as a hiring manager, I almost never saw any applica
 
 直到21世纪初，作为一名招聘经理，我几乎从未见过任何软件工程工作的申请，而申请人没有相关的四年制学位。 如果我这样做了，我会把它扔出去而不考虑它。 快进到2010年底，我看到的申请中至少有一半来自没有正式学位的人。 现在，作为计算机科学教授，我经常让学生在一两节课后辍学，因为他们获得了某种类型的程序员的工作（通常不是一项好工作，不是他们已经准备好的工作，而是一份工作。 然而工作仍以“开发人员”为标题）。
 
-![img](http://note.youdao.com/yws/res/1305/2228e013b6cfe68b49910f3b73644102)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/03.jpg)
 
 Maybe a couple more programming classes would have been a good idea? Nah!
 
@@ -64,7 +64,7 @@ What really happened is computer technology matured, modularized, and productize
 
 真正发生的事情是计算机技术的成熟，模块化和产品化。我们曾经需要在计算的各个方面都训练有素，受过正式教育的软件工程师，因为企业或机构中的计算机数量是……一台非常大，非常复杂且非常昂贵的计算机。今天没有我们想到的网络，也没有互联网。在这些机器上工作的个人必须是多位科学家，工程师和数学家。这些早期工作的严酷程度令人难以置信，因为该技术本身还不成熟且在很大程度上处于试验阶段。随着计算机技术的成熟，它变得模块化，产品化和包装化（就像任何技术一样）。不再需要一个人成为数学家，工程师，程序员，网络管理员和数据库管理员。技术变得即插即用，因此他们的工作也随之而来。技术角色（例如技术本身）在许多受过重点培训的专家中而不是在少数受过高等教育的通才中被分解。
 
-![img](http://note.youdao.com/yws/res/1302/784a339e67b4b00b3d48599b67978548)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/04.jpg)
 
 Found the bug! [It’s a moth](https://interestingengineering.com/the-origin-of-the-term-computer-bug).
 
@@ -78,7 +78,7 @@ Just as in the automotive example, the demand for skilled workers in programming
 
 就像在汽车行业的例子中一样，对熟练的编程人员的需求也在飞速增长。 同时，计算机和软件变得模块化，打包和生产。 我们还看到了与计算机科学相关的领域的爆炸性增长，例如网络，系统管理，加密，数据库，电气工程等。我们根本无法让计算机领域的每个人都成为训练有素的计算机科学家和数学家， 因为如果每个流水线工人和机械师都需要拥有机械工程硕士学位，我们就无法制造或修理汽车。 那样行不通。
 
-![img](http://note.youdao.com/yws/res/1308/3d4049fb43d5a5f9a677a860c1e04eca)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/05.jpg)
 
 More and more, what we have today behind computer keyboards are analogous to the skilled and trained automotive technician (as opposed to a formally trained mechanical engineer). The “coder” or “developer” is more and more someone without formal or extensive computer science education. Instead, this is a person that has been trained specifically in programming as a technical skill, and also has some foundational computer science education, but primarily as it relates directly to programming. Programming today no longer takes place in a free-for-all complex and experimental environment that requires extensive and formal computer science education. A lot of programming today requires something analogous to the automotive technician, the ability to identify the part that is needed, know where to find the part, and plug it in properly. A day-to-day programmer no longer needs to know how to design and construct a sorting or searching algorithm and analyze its performance mathematically before implementing it. A programmer simply finds the sort or search “part” and plugs it in.
 
@@ -98,7 +98,7 @@ Computer scientists and true software engineers have not been supplanted by “c
 
 计算机科学家和真正的软件工程师并没有被“编码人员”，“开发人员”和“黑客”所取代。我们只是将我们的专业和职位重新组织成一个日趋成熟的行业。 首先要感谢计算机科学家，工程师和数学家，现在才有可能使用编程技术人员（即现代的“开发人员”或“编码人员”）。 借助计算机科学的进步，构建软件现在已模块化，并且大多已预先打包和规定，这导致了广泛的软件库，软件包管理器，依赖项管理器，集成开发环境，软件即服务，基础架构即是 服务，分布式代码存储库，当然还有Internet； 所有这些都是从博士和计算机科学研究实验室的工程师开始的。 此外，诸如Python之类的编程语言已经将细节抽象化到一定程度，几乎任何人都可以仅凭基本的计算机科学知识就可以使用它。
 
-![img](http://note.youdao.com/yws/res/1306/5f018b22b8b04ca6f0f7d0db98ba5eb7)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/06.jpg)
 
 Computer scientists are still hard at work building new theories and new technologies. Formally educated software engineers with degrees in computer science are still building those theories into reality. However, now as those new technologies filter down to those on the front lines; it’s the programmer technicians who do the bulk of the day-to-day heavy lifting in software development.
 
@@ -118,7 +118,7 @@ Thanks to explosive growth in technology, and the work of those early pioneers i
 
 得益于技术的爆炸性增长以及软件工程的早期开拓者的工作，如今，整个一代人现在可以在过去几乎无法进入的领域中拥有丰厚而引人入胜的职业。 就像1930至40年代的汽车和制造业革命导致中产阶级的建立和生活水平的空前提高一样，2000年代的IT革命也在做同样的事情。 我们正在看到计算机科学的民主化，这是一件好事。
 
-![img](http://note.youdao.com/yws/res/1307/feba8e700a3f78d12546cabdf5973314)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/07.jpg)
 
 The choice is now yours. Almost everyone can be part of the continued technical revolution and secure a well paying and engaging career in technology. The choice now is not *if* you can be in the tech industry, now it’s about *where* and *what* level in the industry do you want to be and *how* do you get there? PhD’s in computer science are still researching and coming up with new theories every day. Those with advanced degrees in math and computer science are still testing and implementing those theories into real and practical technologies. Formally trained and educated software engineers with computer science degrees are the software architects and leaders in the field. Programming technicians (i.e. the modern coders, developers, and programmers) are on the front lines putting the parts in place and assembling and maintaining the systems, while analysts and administrators support them.
 
