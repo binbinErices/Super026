@@ -2,7 +2,7 @@
 
 Never get so busy making a living that you forget to live your life
 
-![pic](../img/week02/1.png)
+![pic](https://github.com/binbinErices/Super026/blob/master/Reading/img/week02/1.png)
 
 Image Credit: Pixabay.com
 
