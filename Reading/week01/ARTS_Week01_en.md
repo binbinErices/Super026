@@ -10,13 +10,13 @@ Most of the people I know are software engineers or computer scientists of one f
 
 If you go back to the beginnings of computer science, it was not called computer science and there was no computer science department in any school. Computer science as a discipline was a subset of mathematics and/or engineering. The first computer science department was established in 1962 at Purdue University, and it was another 15 years before there was even a just a small handful of University computer science departments. Well into the 1980's, computer science was still mostly considered a sub-field of mathematics or general engineering. However, we had computer programmers as early as the 1940’s. Who were these early pioneers and what did they do?
 
-![img](http://note.youdao.com/yws/res/1303/a491ab1af64e2ee53d6e149dae2c5407)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/01.jpg)
 
 Augusta Ada King, Countess of Lovelace; aka [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace). The first of us. Mom.
 
 The first programmers were mathematicians. They weren’t usually called programmers. They were analysts, engineers, mathematicians, or just generally “*those really smart women over there in the refrigerator*” (most of the first programmers were women and most computers were in “cold rooms”). These “programmers” had to have extensive formal education and knowledge in mathematics and/or engineering. Most were more closely related to scientists than what we think of as programmers today. Over time, and by the late 1960's, the field grew and the people involved in programming computers became known as software engineers. These were very highly educated people (still mostly women), usually with advanced degrees in math. This continued for some time.
 
-![img](http://note.youdao.com/yws/res/1304/6c0cd19905b9ba1e1f008695a212b13a)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/02.jpg)
 
 [Margaret Hamilton](http://margaret_hamilton/), one of the first true software engineers and one of the greatest.
 
@@ -28,7 +28,7 @@ By the end of the 1990's we began to see the first of whom we now simply call �
 
 Even up to the early 2000's, as a hiring manager, I almost never saw any application for a software engineering job where the applicant did not have a related four-year degree. If I did, I would have thrown it out without thinking about it. Fast forward to the late 2010's and at least half the applications I saw were from people with no formal degree. Now as a professor of computer science I regularly have students who drop out after a class or two because they got a job as a programmer of some sort (usually not a good job, and not a job for which they are ready, but a job with the title “developer” nonetheless).
 
-![img](http://note.youdao.com/yws/res/1305/2228e013b6cfe68b49910f3b73644102)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/03.jpg)
 
 Maybe a couple more programming classes would have been a good idea? Nah!
 
@@ -42,7 +42,7 @@ Obviously it’s become about simple numbers. The demand for developers is absur
 
 What really happened is computer technology matured, modularized, and productized. We used to require highly trained, formally educated software engineers in all aspects of computing because the number of computers in a business or institution was… one. One very big, very complicated, and very expensive computer. There were no networks as we think of them today and no Internet. The individuals who worked on these machines had to be all-in-one scientists, engineers, and mathematicians. The rigors of these early jobs were incredibly intense because the technology itself was immature and largely experimental. As computer technology matured it became modular, productized, and packaged (like any technology). No longer would one person have to be all-in-one mathematician, engineer, programmer, network administrator, and database administrator. Technologies became plug-and-play and so did the jobs for them. Technical roles (like the technology itself) became broken up among many focus-trained specialists rather than a few highly educated generalists.
 
-![img](http://note.youdao.com/yws/res/1302/784a339e67b4b00b3d48599b67978548)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/04.jpg)
 
 Found the bug! [It’s a moth](https://interestingengineering.com/the-origin-of-the-term-computer-bug).
 
@@ -52,7 +52,7 @@ This happens in all fields. The first days are reserved for the visionaries and 
 
 Just as in the automotive example, the demand for skilled workers in programming skyrocketed. At the same time, computers and software became modular, packaged, and productized. We have also seen explosive growth in the areas related to computer science such as networking, system administration, encryption, databases, electrical engineering, etc. We simply cannot afford to have everyone in the computer field be a highly trained computer scientist and mathematician, just as we could not build or fix cars if every assembly line worker and mechanic was required to have a master’s degree in mechanical engineering. It just doesn’t work that way.
 
-![img](http://note.youdao.com/yws/res/1308/3d4049fb43d5a5f9a677a860c1e04eca)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/05.jpg)
 
 More and more, what we have today behind computer keyboards are analogous to the skilled and trained automotive technician (as opposed to a formally trained mechanical engineer). The “coder” or “developer” is more and more someone without formal or extensive computer science education. Instead, this is a person that has been trained specifically in programming as a technical skill, and also has some foundational computer science education, but primarily as it relates directly to programming. Programming today no longer takes place in a free-for-all complex and experimental environment that requires extensive and formal computer science education. A lot of programming today requires something analogous to the automotive technician, the ability to identify the part that is needed, know where to find the part, and plug it in properly. A day-to-day programmer no longer needs to know how to design and construct a sorting or searching algorithm and analyze its performance mathematically before implementing it. A programmer simply finds the sort or search “part” and plugs it in.
 
@@ -64,7 +64,7 @@ These new skilled workers are those with basic computer science knowledge, but o
 
 Computer scientists and true software engineers have not been supplanted by “coders,” “developers,” and “hackers.” We’re simply re-organizing our professions and positions into what is a maturing industry. Thanks to computer scientists, engineers, and mathematicians in the first place, the programming technician (i.e. the modern “developer” or “coder”) is now possible. Building software is now modular and mostly pre-packaged and prescribed thanks to advances in computer science that have led to extensive software libraries, package managers, dependency managers, integrated development environments, software-as-a-service, infrastructure-as-a-service, distributed code repositories, and of course the Internet; all of which started with PhD’s and engineers in computer science research labs. Furthermore, programming languages like Python have abstracted away details to such a degree, almost anyone can do it with just basic computer science knowledge.
 
-![img](http://note.youdao.com/yws/res/1306/5f018b22b8b04ca6f0f7d0db98ba5eb7)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/06.jpg)
 
 Computer scientists are still hard at work building new theories and new technologies. Formally educated software engineers with degrees in computer science are still building those theories into reality. However, now as those new technologies filter down to those on the front lines; it’s the programmer technicians who do the bulk of the day-to-day heavy lifting in software development.
 
@@ -76,7 +76,7 @@ Not only has the true software engineer and computer scientist not fallen, we’
 
 Thanks to explosive growth in technology, and the work of those early pioneers in software engineering, an entire generation of people can now have lucrative and engaging careers in what used to be an almost inaccessible field. Just as the automotive and manufacturing revolution of the 1930–40's led to the creation of the middle class and an unprecedented rise in living standards, the IT revolution of the 2000's is doing the same thing. We’re seeing the democratization of computer science and this is a good thing.
 
-![img](http://note.youdao.com/yws/res/1307/feba8e700a3f78d12546cabdf5973314)
+![img](https://github.com/binbinErices/Super026/blob/master/Reading/img/week01/07.jpg)
 
 The choice is now yours. Almost everyone can be part of the continued technical revolution and secure a well paying and engaging career in technology. The choice now is not *if* you can be in the tech industry, now it’s about *where* and *what* level in the industry do you want to be and *how* do you get there? PhD’s in computer science are still researching and coming up with new theories every day. Those with advanced degrees in math and computer science are still testing and implementing those theories into real and practical technologies. Formally trained and educated software engineers with computer science degrees are the software architects and leaders in the field. Programming technicians (i.e. the modern coders, developers, and programmers) are on the front lines putting the parts in place and assembling and maintaining the systems, while analysts and administrators support them.
 
