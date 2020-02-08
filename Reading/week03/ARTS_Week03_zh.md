@@ -164,6 +164,7 @@ If you liked this article you might also enjoy these other reads!:
 
 [Do you have a Data Hero on your team?](https://towardsdatascience.com/do-you-have-a-data-hero-on-your-team-e4ddc318926e)
 
+![author](https://github.com/binbinErices/Super026/blob/master/Reading/img/week03/1.png)  
 **RYAN M. RAIKER, MBA //** Ryan Raiker is Senior Product Marketing Manager at [ABBYY](http://www.abbyy.com/), a global provider of business process and Digital IQ solutions. As the resident “Process IQ Guy,” Ryan has expertise in process discovery, analysis, monitoring and predictive/prescriptive analytics, business strategy management, business development with a focus on helping companies understand and gain value from their business processes. He received a Master’s of Business Administration Degree, a Bachelor’s Degree in Business Analytics/Informatics and a Minor in Operations Management from Widener University and continues to serve as an adjunct professor at the university.
 
 Ryan Raiker是[ABBYY]的高级产品营销经理，该公司是业务流程和Digital IQ解决方案的全球提供商。 作为常驻的“流程智商专家”，Ryan在流程发现，分析，监视和预测/说明性分析，业务策略管理，业务开发方面具有专业知识，重点在于帮助公司了解其业务流程并从中获取价值。 他获得了Widener大学的工商管理硕士学位，商业分析/信息学学士学位和运营管理副学士学位，并继续担任该大学的兼职教授。
